@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" modified="2024-04-25T15:10:07.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="SgNvbasjEBFF_JDo4dD0" version="24.3.0" type="device">
+  <diagram name="第 1 页" id="MckGbj9Bpqc1UjX0IQ6g">
+    <mxGraphModel dx="1397" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ra7AowOO9EsDIWGgp7LJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#ED0000;" edge="1" parent="1" source="Ra7AowOO9EsDIWGgp7LJ-19" target="Ra7AowOO9EsDIWGgp7LJ-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="310" />
+              <mxPoint x="520" y="460" />
+              <mxPoint x="125" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ra7AowOO9EsDIWGgp7LJ-19" value="已配置" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Ra7AowOO9EsDIWGgp7LJ-11" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ra7AowOO9EsDIWGgp7LJ-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Ra7AowOO9EsDIWGgp7LJ-11" parent="1" target="Ra7AowOO9EsDIWGgp7LJ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ra7AowOO9EsDIWGgp7LJ-13" value="未配置 R" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="65" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ra7AowOO9EsDIWGgp7LJ-14" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="Ra7AowOO9EsDIWGgp7LJ-13" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ra7AowOO9EsDIWGgp7LJ-27" value="未联网 B" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="295" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ra7AowOO9EsDIWGgp7LJ-29" value="联网中 G" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="295" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ra7AowOO9EsDIWGgp7LJ-33" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="340" as="targetPoint" />
+            <mxPoint x="330" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ra7AowOO9EsDIWGgp7LJ-34" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ra7AowOO9EsDIWGgp7LJ-29" target="Ra7AowOO9EsDIWGgp7LJ-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="510" as="targetPoint" />
+            <mxPoint x="510" y="450" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="385" y="320" />
+              <mxPoint x="385" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
